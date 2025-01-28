@@ -73,12 +73,12 @@ h1{
     width: 15rem;
     margin: 7rem;
     font-size: 1.5rem;
-    border: .2rem solid rgb(8, 66, 90);
+    border: .2rem solid rgb(57, 219, 84);
     border-radius: .7rem;
     
 }
 .container-b:hover{
-    background-color: #1004413b;
+    background-color: #fa13323b;
 }
 .container-c{
     background-color: #7552b7;
@@ -102,12 +102,12 @@ h1{
 .container-b h3{
     margin-left: 2.5rem;
     margin-top: .7rem;
-    color: rgb(29, 208, 65);
+    color: rgb(11, 114, 23);
 }
 .container-c h3{
     margin-left: 2.5rem;
     margin-top: .7rem;
-    color: rgb(208, 29, 136);
+    color: rgb(240, 218, 20);
 }
 .container-a p{
     margin-top: 20px;

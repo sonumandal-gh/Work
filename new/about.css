@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+        min-height: 100vh;
+        width: 100%;
+        display: flex;
+        background-image: url(sonu2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        position: fixed;
+}
+h1{
+    color: red;
+    margin-top: 3rem;
+   margin-left: 15%;
+    font-size: 60px;
+    position: fixed;
+    
+}
+.content{
+     margin-top: 15rem;
+    font-size: 1.5rem;
+    margin-left: 15rem; 
+    
+}
+
+.name{
+    color: aqua;
+}
+.colleg{
+    color: rgba(211, 18, 37, 0.811);
+}
